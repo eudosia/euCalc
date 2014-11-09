@@ -3,18 +3,12 @@
 ****************************
 
 
-Sky Kit
+euCalc
  
- -->sky_check_box.rbp
- -->sky_kit_1_full.png
- -->Sky_kit_progress.rbp
- -->sky_radio_check.png
- -->sky_slider.png
- -->sky-slider.rbp
- -->readme.txt
+
  
- Run each .rbp files (Required RS2011 R4.3 or Higher), maybe they can work with earlier versions.
- Each rbp file show the usage of the Progress bar, the radio and check boxes, and sliders.
+ euCalc is an attempt to realize a better UI for Calculator
+ using canvases. Feel free to use, improve, and maybe finish it.
  
  The code is commented.
  Tested on Mac and Windows systems.
